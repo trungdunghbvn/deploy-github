@@ -2,7 +2,7 @@
   "name": "deploy-github",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://trungdunghbvn.github.io/deploy-github/",
+  "homepage": "https://trungdunghbvn.github.io/deploy-github",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
